@@ -1,9 +1,9 @@
-Miles Shinmachi \n
-Alina Anwar \n
-CECS 326 SEC 02 \n
-CECS 326 - Project 1
+    Miles Shinmachi
+    Alina Anwar
+    CECS 326 SEC 02
+    CECS 326 - Project 1
 
-For Project 1, we tackled one problem at a time:
+    For Project 1, we tackled one problem at a time:
 
     For Problem 1: 
         We decided to create 2 files, QuoteClient.java & QuoteServer.java. 
